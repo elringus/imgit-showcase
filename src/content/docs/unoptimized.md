@@ -320,14 +320,14 @@ Lorem markdownum hostesque fuit est. Manantem patre hoc vocis primum coeptis,
 Python relinquunt casas. Caras umeris, inpia eris nullae Veneris viribus
 sollemni mutata et in fama.
 
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/10.mp4"
+playsinline autoplay muted loop></video>
+
 Forent quae artus, tunc pedes *tibi visa* cycnus: aequalis redituram quis. Nata
 tanti suis sequitur nata quae, Seriphi somnia per voluntas silva. Videres visa
 stagna **avem tamen qui** avidas fulget, subita super? Me terrae saevam luxuriem
 miseroque gurgite fraternos cupidusque Palaestina terret sedes Caencu numinis
 timebam.
-
-<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/10.mp4"
-playsinline autoplay muted loop></video>
 
 Incedere *eas in* cygnis tantorum fixo sic tamen obsessos
 meruisse mersit tuearis? Iapygis proferre humum;
@@ -340,19 +340,17 @@ Delosque de aequora menso prohibes, et?
 
 Fit captum requies concepta gerebant mihi aeternamque furta spernuntque sed
 audacissimus oracula. Te vatibus, et iterum proles facilesque turbavit
-concussaque iussa: tua: est desere nec *maturo tectam*. Stimuloque suis iam
-exhalat, subito vites: nocuit nominis, suus novandi venae qui proavos surgit. 
-Veniam *trahens ignaram* forte nullum.
-
-> Et diu durior es *Acarnanum Aeacus*. Nunc veniam magni haec **variis
-> diffugiunt sentire** et volant tempora, et o tum segnis causa in quos
-> pastoribus.
+concussaque iussa: tua: est desere nec *maturo tectam*.
 
 ![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/11.jpg)
 
 Bacchi gentis et **cornua fraterno** flos quoque, ore et qui, Phrygiae imagine.
 Madent refert, missos notum ventis vires: clarum pendens, damnandus aditus
 puppes possent viveret, utque opposui et?
+
+> Et diu durior es *Acarnanum Aeacus*. Nunc veniam magni haec **variis
+> diffugiunt sentire** et volant tempora, et o tum segnis causa in quos
+> pastoribus.
 
 Patet properataque letum? Pia poscit cum inquiri gladii, Cupido duces avidos, meo. Seu
 cum nec esse discrimine quoque corruit referre errare. Patens filia virgis comes
