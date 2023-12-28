@@ -12,10 +12,9 @@ export default defineConfig({
     head: [
         ["link", { rel: "icon", href: "/favicon.svg" }],
         ["link", { rel: "preload", href: "/inter.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+        ["link", { rel: "preload", href: "/poster.jpg", as: "image" }]
     ],
     themeConfig: {
-        logo: { src: "/favicon.svg" },
-        logoLink: "/",
         socialLinks: [{ icon: "github", link: "https://github.com/elringus/imgit-showcase" }],
         nav: [
             { text: "Optimized", link: "/src/optimized" },
@@ -23,7 +22,12 @@ export default defineConfig({
         ]
     },
     sitemap: { hostname: "https://grand-figolla-604270.netlify.app" },
-    vite: { plugins: [imgit({ width: 688, plugins: [svg(), youtube(), skipUnoptimized()] })] },
+    vite: {
+        plugins: [imgit({
+            width: 688, cover: null,
+            plugins: [svg(), youtube(), skipUnoptimized()]
+        })]
+    }
 });
 
 function skipUnoptimized(): Plugin {
