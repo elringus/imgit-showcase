@@ -21,12 +21,7 @@ export default defineConfig({
         ]
     },
     sitemap: { hostname: "https://grand-figolla-604270.netlify.app" },
-    vite: {
-        plugins: [imgit({
-            width: 688, cover: null,
-            plugins: [svg(), youtube(), skipUnoptimized()]
-        })]
-    }
+    vite: { plugins: [imgit({ width: 688, plugins: [svg(), youtube(), skipUnoptimized()] })] }
 });
 
 function skipUnoptimized(): Plugin {
