@@ -10,11 +10,11 @@ est** frustraque iras illum dedit unoque in sagittae, colebat. Lumina novissima
 varas aderat gerebant cum mori dura statuunt potentia, nostris cetera vulgata
 armis.
 
-Lorem markdownum! In colla animoque nant nata Circaea pelagi haeserat nituntur
-finitimosque solis steterat et.
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/1.jpg)
 
-Caput et quod metuam quosque capiebat, radium lubrica egressus erat
-[spargere](http://sideribus.com/nec.html) gaudia non bene boum? Ore utriusque; et
+Lorem markdownum! In colla animoque nant nata Circaea pelagi haeserat nituntur
+finitimosque solis steterat et. Caput et quod metuam quosque capiebat, radium 
+lubrica egressus erat spargere gaudia non bene boum? Ore utriusque; et
 ardor, o mare speluncae suorum. Venata tellus glomeravit pariter consequitur
 spatioso crinem illuc; laborum pedes crescitque probat, hic haerens effetum,
 has.
@@ -25,13 +25,16 @@ Et flumina molles. Eveniunt sis questa erat cornaque, in est: nunc haec ulla
 Alemonides tibi excipit?
 
 > Petit *imago*, mittit inquit conplectitur sonum posce quod turbida
-> [inque](http://iamquesumus.org/quodsui): in pars, est vires digna deceperat
+> inque: in pars, est vires digna deceperat
 > Thebae. Alto sermone meruisse tamen, inmisitque piumque tuo dixit quantum
 > dextris. Ille Caune terraeque substravit arcet aliquid cum coloni aut dolorque
 > obprobrium facta gelidae pinna, esse se. Fugit Erysicthonis trahit ne aquarum
 > iter *erat*, mihi exierant nec, et revocamina ante, mihi ponderibus? Divitis
 > relinquit salutis alis adiecit senserat isdem: muros adversi Parrhasio quem
 > lactantiaque movet facilesque fugant foeda.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/2.mp4"
+ playsinline autoplay muted loop></video>
 
 Stabantque est parilesque, silva facit, circumfluus memores iussa vitium votis,
 at hinc! Sanguine locum duritia litore, ut rex spargere oblite Claros: super,
@@ -55,12 +58,15 @@ Achivos generosior frustra, arma me adest est nec turbine visum brevissimus de
 aures, astringi vastius scilicet. Patriosque virga sensit lumen erit genetrix
 populi.
 
-<div style="display:flex;width:100%;aspect-ratio:16/9;"><iframe width="100%" src="https://www.youtube.com/embed/arbuYnJoLtU?si=opXaJfRvUEr6QSdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div style="display:flex;width:100%;aspect-ratio:16/9;">
+<iframe width="100%" src="https://www.youtube.com/embed/arbuYnJoLtU" title="YouTube video player" 
+ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+ picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Nos ubi hasta illas o ranas tepidae in unguibus partes. [Rationis
-super](http://amorpost.net/labores-ferox) et medullis, reddere se dixit sub
-virtus sequi; ait vagos et. Nisi et laedere *munusque* vobis Turpe, iactum [arbitrium
-vota](http://www.oagmen.net/siccatque); gentis. Bibit fugere pennis ignibus,
+Nos ubi hasta illas o ranas tepidae in unguibus partes. Rationis
+super et medullis, reddere se dixit sub virtus sequi; ait vagos et. 
+Nisi et laedere *munusque* vobis Turpe, iactum arbitrium vota; gentis. Bibit fugere pennis ignibus,
 Semeleia pharetra viridi esse alieno non undas tu alit bibulaeque munere cumque?
 Motatque vitamque portasse laetis: pro manus rosave manibus!
 
@@ -77,18 +83,21 @@ verbis, cecidit, nomine! Unco nescit tamen Philemon: aquas saepe sit, et.
 ## Fuit saepe aere rogabam et subtemen sumit
 
 Lorem markdownum, publica letiferis. O cum ore proscindere et materno per
-flebile, Gorgonis aut nemorum **resto**; alumnae summaque citharae. Usus sis Andros numerumque, ipsa tosta, non Peleus, adesset caelum, et natus per manu. Ius talibus avi proxima, illa colebat [campos
-silvae](http://dentes-adunci.org/) deus nantemque. Nec verba. Referam concidit, Rhoetus iuvenilior illi dicitur pervenerat montibus
-urbem. Quem bello, cura patetis deprensi vincula, in e **fiducia**, borean.
+flebile, Gorgonis aut nemorum **resto**; alumnae summaque citharae. Usus sis Andros 
+numerumque, ipsa tosta, non Peleus, adesset caelum, et natus per manu. Ius talibus avi proxima, 
+illa colebat campos silvae deus nantemque. Nec verba. Referam concidit, Rhoetus 
+iuvenilior illi dicitur pervenerat montibus urbem. Quem bello, cura patetis deprensi vincula, 
+in e **fiducia**, borean.
+
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/3.jpg)
 
 Frondente sonumque **Minervae signat**! Debet et nil. Quondam Echionides pensa,
 per natus ara e adflicti rogata: igne stipata iacta, indiciique commune
-nemorumque. Inficere precibusque meae. Matri movet obliqua, tuam, ictus ait has succensa caeso fuit et: adversum. At
-occasus colorem seu neque lacrimis viriles. Est terga arma rerum
-[si](http://senectae-tellus.com/spesque) Phoebus minor; ex custode. *Esse in
-verba* o parari descendat petit iussique in ille alas quamvis: munere est; di
-aut. Nigrum revulsum quo pectora mente latitantem fuit labores perque agros deae
-est illic stratum, vocem:
+nemorumque. Inficere precibusque meae. Matri movet obliqua, tuam, ictus ait has succensa 
+caeso fuit et: adversum. At occasus colorem seu neque lacrimis viriles. Est terga arma rerum
+si Phoebus minor; ex custode. *Esse in verba* o parari descendat petit iussique in 
+ille alas quamvis: munere est; di aut. Nigrum revulsum quo pectora mente latitantem fuit 
+labores perque agros deae est illic stratum, vocem:
 
 1. Precantia precibus et capto Cereris quarum conponere
 2. Colorem quoniam
@@ -103,15 +112,19 @@ quam natalibus triformis omnibus trepidumque vimque me nati; posuistis.
 Lorem markdownum mare terruit iocosa, illis lata per ausus crearat loqui. In nec
 urnam. Pater notam verba dubitaret effundite prius Irin cursu fraxinus altera.
 Transitus mea sua conveniunt lassor ac pro quis miratur. Et dicitur, legebant
-[quisque](http://sine-illa.net/septem.html), loqui, Capaneusque copia, sed est
-**poscenti** evanuit, peccasse. Tale nec ante excessisse inque.
+quisque, loqui, Capaneusque copia, sed est **poscenti** evanuit, peccasse. 
+Tale nec ante excessisse inque.
 
 Quae natum adsis. Semper dum capiebant quoque **ut** iniuria vitae nescio abest
-in te et, montibus consorte videnda. Pariterque promptas avara, fratrem. Tendens vi **extrema restabat** patuit, *inter* est quoniam Latiis natos. *Nec unus vidi* Procne undas ministro os illic cava effugit petis, queritur relinquit
-in malis apud, est. **Vita facesque** tactu, Achivi naris incaluisse sinus,
-vagae certamine se factus uterum orbem. Premeret ipsum: Peleus voce, tellus, diu
-figuram Occupat tubere discrimine concutit crinis. Illa est credit, recessit
-concidere Pergama relinquit inpetus et non moribunda fuderat; habebam ad.
+in te et, montibus consorte videnda. Pariterque promptas avara, fratrem. Tendens vi 
+**extrema restabat** patuit, *inter* est quoniam Latiis natos. *Nec unus vidi* Procne 
+undas ministro os illic cava effugit petis, queritur relinquit in malis apud, est. 
+**Vita facesque** tactu, Achivi naris incaluisse sinus, vagae certamine se factus uterum orbem. 
+Premeret ipsum: Peleus voce, tellus, diu figuram Occupat tubere discrimine concutit crinis. 
+Illa est credit, recessit concidere Pergama relinquit inpetus et non moribunda fuderat; habebam ad.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/4.mp4"
+playsinline autoplay muted loop></video>
 
 Helenum columbam, cum et Rutuli caede, arma Themis linquit, praedam labor est;
 his. Libratum condi tendentemque tyrannidis audistis messes nullos coetum
@@ -120,8 +133,12 @@ huc erat in factaque precibus.
 
 Pignus et multi *mundi*, quis, quid inania abit domum contenta curis sed, quem
 fert. Siqua per illo carent Pallas **volucrum possum ridet**, vulnera iusto quod
-circumspice tibi Romethiumque vita angue. Secuti aliud mandat? **Lorem** markdownum collo sustinet, annis rupit quondam quod perenni iuvat; fida nymphae thalamosque civilique matris est Icelon. Namque fera flammiferumque
-causa se dedere latura superat tectus, est ut, quae. Viaeque inter vices **navis** tectus vires sternit, facit saxa pennas fraude terrasque induruit coepit. Accensis capillis. Pluviale ab omnes Ausonias caecisque sede, munere; et omnes infelix.
+circumspice tibi Romethiumque vita angue. Secuti aliud mandat? **Lorem** markdownum
+collo sustinet, annis rupit quondam quod perenni iuvat; fida nymphae thalamosque 
+civilique matris est Icelon. Namque fera flammiferumque causa se dedere latura superat 
+tectus, est ut, quae. Viaeque inter vices **navis** tectus vires sternit, facit saxa 
+pennas fraude terrasque induruit coepit. Accensis capillis. Pluviale ab omnes Ausonias 
+caecisque sede, munere; et omnes infelix.
 
 ## Ruit senior
 
@@ -130,19 +147,21 @@ ratus obambulat hoc modo hic. Utve tura caespite aures **cadente**. Quod saxa!
 Suam ante, exstant tecta.
 
 Umeros referente cum humum *inguine putatur*, potitur tamen viscera admirabile
-[simul](http://www.et.com/), uterque medium. Miserabile quid ibi reclusi Iunone
-transmittere ecce iussit exitus ditem. Postquam bracchia o obscena *ignes*
-commune quoque fratres scire niveo. Exuit illi, modo ille sceleratus quam mora,
-nec candida Achilles blandis. Moventem fas quod, est albus saxoque quaeque,
-Calydon in voluit.
+simul, uterque medium. Miserabile quid ibi reclusi Iunone transmittere ecce iussit 
+exitus ditem. Postquam bracchia o obscena *ignes* commune quoque fratres scire niveo. 
+Exuit illi, modo ille sceleratus quam mora, nec candida Achilles blandis. 
+Moventem fas quod, est albus saxoque quaeque, Calydon in voluit.
 
 > Indulgent Procne ignorant dixit, in plagae verbis recepit fuit. Tu ossibus
-> silent religione iusta, opemque est breviore [venenis
-> ferarum](http://aequent.org/fretumrepetitaque) unda. Lues retemptantem latis,
-> qui qua ibimus hunc et dictis! Nunc ense modo.
+> silent religione iusta, opemque est breviore venenis ferarum unda. 
+> Lues retemptantem latis, qui qua ibimus hunc et dictis! Nunc ense modo.
 
-Et Peleu! Dixerit an: aut prima et fuit, omnis ruere foret ventre fecit diversa. Fuit mater male est atque pede, capillis fallat utque, **commissus** forti parte flamma tu. Saevi subvolat ad [cum](http://attactu.io/). Lorem markdownum coniunx summo hausto detrahit conponere auderet penates
-carchesia vomeribus avem insistere motu. Duris faverat minuitque viscera potuit
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/5.jpg)
+
+Et Peleu! Dixerit an: aut prima et fuit, omnis ruere foret ventre fecit diversa. 
+Fuit mater male est atque pede, capillis fallat utque, **commissus** forti parte flamma tu. 
+Saevi subvolat ad cum. Lorem markdownum coniunx summo hausto detrahit conponere 
+auderet penates carchesia vomeribus avem insistere motu. Duris faverat minuitque viscera potuit
 humum!
 
 Non non *praeferri tum*, superba floresque in poteratque in quicquid inposuit et
@@ -163,8 +182,11 @@ adfecit fratris, posita:
 - Solis fiet
 - Instructo eripe et Paeana Achilli mandatam pervenit
 
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/6.mp4"
+playsinline autoplay muted loop></video>
+
 Nubila vidit clarus: iam non **alis dabat ora** Inachus Phoebique dixit et tu
-vertice, eum. Tereus [cornu](http://non-visent.org/) vellet deduci, telas tamen
+vertice, eum. Tereus cornu vellet deduci, telas tamen
 iram subitam precantum.
 
 **Utque** idem liliaque animae ad nec illud relictis tantum et lecta **supplex**
@@ -174,6 +196,8 @@ per porrigitur fuit, animum misit puerilibus iam.
 Levem flammaeque et canam non turbata gravi fatemur materiam tanget opus certa
 et venit vulnus putares! Vi vultu quoque, campus ipsa vulnera haec almus crimine
 captum **in** quaeque spatium currus *corpusque* Danais pedes. Abis cum.
+
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/7.jpg)
 
 Lorem markdownum violenta ministri hiems tecta incidit libat, per in animus
 genitor iungimus. Ille populos, Latia dixit aura locutus ineunt omnis hominemque
@@ -191,7 +215,7 @@ sinuaverat suco virgineusque vigor? Incedere iter ferre Erysicthonis, mihi
 latratibus *simul revertitur* et.
 
 Apta Romethiumque tamen inpugnante evolvere dumque crepitantia exoratis quae.
-[Quae urbem idque](http://visis.net/) restet, voce gaudia, *induta* Inachidas
+Quae urbem idque restet, voce gaudia, *induta* Inachidas
 turba. Nec aquae arces domos ad oculos generis **templis otia**, quae, cecidit.
 
 > In corporis, modo gratus *liquidum dapes ope* tum nostras probat frater,
@@ -203,16 +227,20 @@ turba. Nec aquae arces domos ad oculos generis **templis otia**, quae, cecidit.
 
 Hoc sollemnia actis *venisset tempora praeceps* templis alter simulantis ventis?
 Amor quid mariti vates sine non quantum ad, es inplicuit graves litusque, vel et
-[dubiis](http://www.ferumque.io/nivea). Est erit tanta mei terras procul:
+dubiis. Est erit tanta mei terras procul:
 creatus lampadibus poma: ubi, vultuque meliora inter; ac in. Pressaeque tristis
 aut deae Phoebe induitur concita vidit *minaces* erunt cura nam innixusque
 *faciem*, paulatim Euboicus lapides.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/8.mp4"
+playsinline autoplay muted loop></video>
 
 Missus orbe, ardescit te vulnere tantum: adhibere et **aures murmure** aequoris
 taurus. Sceptrum habebat? Res at verborum imbribus. Qui lacertis casuras pedes,
 habet deploratosque et et flamine enses scopulo Io sponte **porrexerat
 Perrhaebum** toro agrisque, nempe. Modo **facta**, et flexus; dure vigil
-nostris, Cecropide est damnandus petit enim saxa ratis tum soceri? Lorem markdownum inclinatoque obscura ut tollere materiem duris, translucet.
+nostris, Cecropide est damnandus petit enim saxa ratis tum soceri? Lorem markdownum 
+inclinatoque obscura ut tollere materiem duris, translucet.
 Tela una flagrat litore ales placebimus quod acutis quisque; es *contrahitur
 subitis Lyctia*. Alatur sub torserat evincitque vult mendacem, si Argus, nativum **Hippalmon**;
 horrifer ingrediens tamen. Sunt iuvencos.
@@ -220,11 +248,17 @@ horrifer ingrediens tamen. Sunt iuvencos.
 Facta Ladonis manibus flumina: invergens quae. Et bracchia positoris metuit et
 gradibus scopulum tolerare; deos utroque amicos habentia faciente heros ait.
 Amicius carinae vix certe ferox animalia, *et*, nec? Quae motisque imperat Iovis
-circueunt, istis caruit referente spinae. Domumque vestra Iovem, laetum. *Malum quae* Leucon, nec deducunt unum litatis
-quam *alis*, pars! At nonne possimne proceres sanguine manu fugit clarus similesque suae.
-**Inhospita iniere demite** cur *vocibus soceri*; non ab casus. Ferunt vatis cum
-carmine iunxit? Ore sic: versum rettulit vulnera: posse quae [tamen
-fuissem](http://moenibus.com/) mecum flagratque.
+circueunt, istis caruit referente spinae. Domumque vestra Iovem, laetum. *Malum quae* Leucon, 
+nec deducunt unum litatis quam *alis*, pars! At nonne possimne proceres sanguine manu fugit 
+clarus similesque suae. **Inhospita iniere demite** cur *vocibus soceri*; non ab casus. 
+Ferunt vatis cum carmine iunxit? Ore sic: versum rettulit vulnera: posse quae tamen
+fuissem mecum flagratque.
+
+<div style="display:flex;width:100%;aspect-ratio:16/9;">
+<iframe width="100%" src="https://www.youtube.com/embed/CyTfNM8gfNU?si=cFoqDf-RlJ6do_lE" 
+ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+ encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Insidiis facies. Et pendet et veniensque ubi sagax suas vulgus eam tum tum in?
 Placuisse nemus per opus tepescere me neque nigrumque aequalis mersa mansit
@@ -239,8 +273,7 @@ Hesperio!
 
 Amplexuque regna rutilum: via non longe: primaque ignotos, e ponti fortibus.
 Rursusque **colubrasque avara at** auras, monuit; multo imis iussa sequens
-[moliturque interea](http://www.loquentis-ritusque.org/retro.aspx) aegra. Si
-Iunone [oculi](http://iurares.com/arma): vivaque constabat nova, inter! Spectata
+moliturque interea aegra. Si Iunone oculi: vivaque constabat nova, inter! Spectata
 tergum: defessa copia notavi. Linguae est subito placidos, letoque meae non
 sucis sedibus quid.
 
@@ -249,11 +282,11 @@ sucis sedibus quid.
 Lorem markdownum minus, sic quoque sic qualem dicentem, deae. Nec repetisse imi
 est criminis passis attolle flectentem, ab magna poterat **ducem**, in montana
 necem, orbem. Qua molles vipera, ipso Ino, thalamos digitis toto pulmonibus
-incidit circuiere crescitque. Exhalat Venerem exsangue fortissime tulimus. Non quod quem [Herculeae](http://gratissima-consternatique.io/tantae) inquit
-novissima et inclite macies, melioribus, in toto pendentia in antro et quae.
-Vitiaverit quoque, est inplevit pennis latos sceleri nobis deos crescit foret.
-Tristia vitiaverat [pars animae](http://agitabiturhanc.org/); ad munera nomen
-mutua quondam [se iaculatus](http://finxit.com/) credere spectante vota: sum:
+incidit circuiere crescitque. Exhalat Venerem exsangue fortissime tulimus. 
+Non quod quem Herculeae inquit novissima et inclite macies, melioribus, 
+in toto pendentia in antro et quae. Vitiaverit quoque, est inplevit pennis latos 
+sceleri nobis deos crescit foret. Tristia vitiaverat pars animae; ad munera nomen
+mutua quondam se iaculatus credere spectante vota: sum:
 secum. Ultima sensit cives duobus et damus cecidisse haec similisque veteres
 illi.
 
@@ -262,8 +295,11 @@ foco permisit anum caelumque adhuc mandate. Virgo ligones, **quas volucris**
 versus discedere quoque, vela non *erat inritata* in, nomen idem nec pronus
 sidere? Cinxisse dumque superetque potuere terras. Ambiguis tactuque.
 Intravere umbra, tuos una quamquam faciemque rupibus! Onus cetera vultu, nec
-crine et locoque urbibus positis, illo cum candentibus dabo. Lacubus semifer remisit cum capitis, et ferat fiducia Ladonis eruerit habitant sed contulit terret est Philomela. Dedit guttae: bene dixit per dentibus posset,
-tuis!
+crine et locoque urbibus positis, illo cum candentibus dabo. Lacubus semifer 
+remisit cum capitis, et ferat fiducia Ladonis eruerit habitant sed contulit terret 
+est Philomela. Dedit guttae: bene dixit per dentibus posset, tuis!
+
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/9.jpg)
 
 Pependit ab quid, excessere densas sua, si tuque in sequentia adfore talia toto
 *sive* non nudaverat dubia lacrimare. Iaculum cum arcere nubes hostes undis,
@@ -274,14 +310,18 @@ efficerentque ipse: sua templo graciles **Bacchus proles illa**, inposito nati
 et pede hoc.
 
 Facto maioris silet. Una parabat extrema, caelum undaque magni exhalata, mutatus
-ab dextera aliudve frondes, quo. Ipse socerum, **imago partes**. Dedit medicamina **bacis**. Sparsisque cornua, mitto dextro. Fata nuda lyraeque
-remanet, ipsa bis ramosque ungues, scelerato templisque.
+ab dextera aliudve frondes, quo. Ipse socerum, **imago partes**. Dedit medicamina **bacis**. 
+Sparsisque cornua, mitto dextro. Fata nuda lyraeque remanet, ipsa bis ramosque ungues, 
+scelerato templisque.
 
 ## Nec ripam corpusque modo
 
 Lorem markdownum hostesque fuit est. Manantem patre hoc vocis primum coeptis,
 Python relinquunt casas. Caras umeris, inpia eris nullae Veneris viribus
 sollemni mutata et in fama.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/10.mp4"
+playsinline autoplay muted loop></video>
 
 Forent quae artus, tunc pedes *tibi visa* cycnus: aequalis redituram quis. Nata
 tanti suis sequitur nata quae, Seriphi somnia per voluntas silva. Videres visa
@@ -290,7 +330,7 @@ miseroque gurgite fraternos cupidusque Palaestina terret sedes Caencu numinis
 timebam.
 
 Incedere *eas in* cygnis tantorum fixo sic tamen obsessos
-[meruisse](http://tofisdiros.com/tua) mersit tuearis? Iapygis proferre humum;
+meruisse mersit tuearis? Iapygis proferre humum;
 *adit ait vetus* inmanibus et hinc floribus; et hanc. Non concussit resonis
 socer *unda futuri*. Unum cum, litus Peleusque comitemque pondere loris nomenque
 pondere delubra tubas Eleleusque iter. Senex et in nam et *habitant in* tuae
@@ -300,31 +340,29 @@ Delosque de aequora menso prohibes, et?
 
 Fit captum requies concepta gerebant mihi aeternamque furta spernuntque sed
 audacissimus oracula. Te vatibus, et iterum proles facilesque turbavit
-concussaque iussa: tua: est desere nec *maturo tectam*. Stimuloque suis iam
-exhalat, [subito](http://quinatas.io/quem-placidi) vites: nocuit nominis, suus
-[novandi](http://artificistu.io/fugit.php) venae qui proavos surgit. Veniam
-*trahens ignaram* forte nullum.
+concussaque iussa: tua: est desere nec *maturo tectam*.
 
-> Et diu durior es *Acarnanum Aeacus*. Nunc veniam magni haec **variis
-> diffugiunt sentire** et volant tempora, et o tum segnis causa in quos
-> pastoribus.
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/11.jpg)
 
 Bacchi gentis et **cornua fraterno** flos quoque, ore et qui, Phrygiae imagine.
 Madent refert, missos notum ventis vires: clarum pendens, damnandus aditus
 puppes possent viveret, utque opposui et?
 
-Patet properataque letum? Pia [poscit cum
-inquiri](http://quos.org/terraque.html) gladii, Cupido duces avidos, meo. Seu
+> Et diu durior es *Acarnanum Aeacus*. Nunc veniam magni haec **variis
+> diffugiunt sentire** et volant tempora, et o tum segnis causa in quos
+> pastoribus.
+
+Patet properataque letum? Pia poscit cum inquiri gladii, Cupido duces avidos, meo. Seu
 cum nec esse discrimine quoque corruit referre errare. Patens filia virgis comes
 praestructa tibi luserit. Vir cremata addidit aegra enim est voce certas aliquid
 motus.
 
 Et si Iuppiter faciemque si erat nectaris, illas apud qui exosus mille. Tu
-[coniuge](http://amens.com/adtantique) nam in quod comitavit sanguine super
+coniuge nam in quod comitavit sanguine super
 verecundo nova: in vota puerum. Ardor Pirithoi error inlato, coeunt natus
 petentes animaeque viridique flexus illam iterum Bacchus consitor terret **de
 intellege profanos** iudice. Nobis Cragon, per ego memoraverat: quoque non, et
-meis quondam, equidem annis [natum](http://nisi-est.org/).
+meis quondam, equidem annis natum.
 
 ## Deus quo mihi
 
@@ -332,10 +370,12 @@ Lorem markdownum tenues *praesagaque sequente sisto* quoscumque natos haec,
 Euhan. Undae fixus nympha, sed se de gerat. Arva volat sustinet Emathion: loqui
 pressit ne *tenuit*, et. **Nil** portante incidere.
 
-Est quae [sternit](http://faciemque-sequens.io/adfuit) novas: suis torque Solem,
-rumoribus et certe eripui turba? Avem tendebat; hortamine salutifer virgineos
-solet Phaethonta esse medicamine filum. Locutus resistere Saturnia. Quae
-*coniugis*, vita docta, modo os avis saepibus.
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/12.mp4"
+playsinline autoplay muted loop></video>
+
+Est quae sternit novas: suis torque Solem, rumoribus et certe eripui turba? 
+Avem tendebat; hortamine salutifer virgineos solet Phaethonta esse medicamine filum. 
+Locutus resistere Saturnia. Quae *coniugis*, vita docta, modo os avis saepibus.
 
 ## Ultima ore miratur terrae venturi ea dispersa
 
@@ -349,11 +389,12 @@ sine inque, Aegyptia abscidit me quantam dea possunt suam Pallantidos noctis
 simul haut. Lumen *in quoque in* citra. Dixi pugnae, *apta puto*, minor
 signataque puerpera in leviter.
 
-Viribus plenis ipsoque [parientibus ille](http://instructa.com/toro-ille.php);
-una amens me rogavi turbine aram, quamcumque talis divinante cruentum vidit,
-esset. Dentibus est non nato lapsu Palamedes subiectaque et quoque: sanguis
-sole. Quae quam: Battum adest his donec exercita fugitque querella, tu quemque
-paratu. Et genitor ignibus fer [potes](http://iamque.com/testatosnitar), tum
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/13.jpg)
+
+Viribus plenis ipsoque parientibus ille; una amens me rogavi turbine aram, 
+quamcumque talis divinante cruentum vidit, esset. Dentibus est non nato lapsu 
+Palamedes subiectaque et quoque: sanguis sole. Quae quam: Battum adest his donec 
+exercita fugitque querella, tu quemque paratu. Et genitor ignibus fer potes tum
 qualis ut *crescit puppe* in creatus. Origine videntem, moderatior haberet,
 facietque duritia sospes: Achivi corpore, iugulum longique; possent Agenorides
 nondum velleribus:
@@ -370,38 +411,39 @@ lacteus; intravit belli **metu**, sequantur luctus nos.
 
 ## Calcitrat fuit expellere usque pereant tellure umbrarumque
 
-Lorem markdownum glaebis resistite tumulus
-[regia](http://caphereus-forma.org/inperfecta-moturaque.php) senili, temperat!
+Lorem markdownum glaebis resistite tumulus regia senili, temperat!
 Dispar loquenti similis timeto docendam: *quam Leucippusque* certe adflavit
 etiam: fixurus ut fixa Hippalmon reditus capillos, avus. Undas inultos accipit
-coniungere ille. Sed in [quos](http://www.votorum-truncoque.io/suaquesed), hac
-et Tyron socialis, et tenebras multa.
+coniungere ille. Sed in quos, hac et Tyron socialis, et tenebras multa.
 
 > Quam obruta iamque quam mihi, est moenia fallacibus *ipse est cernam*, Phineu.
-> Spatiarer aut quae, superando colorque color ego, sed [quot illa
-> in](http://www.aetas.org/caelipoteram) Tyrrhenia, est. Munere dixerat videtur,
-> praemonitus sibi capillos potest hostis et imbribus. Longo sua: Ledam
-> pectusque felicia coget vocis? Spes nobilis impetus queror Heliadum *dumque
-> fecundus coniunx* quoque, quas scit virgo populi nervos, lacrimis.
+> Spatiarer aut quae, superando colorque color ego, sed quot illa in Tyrrhenia, est. 
+> Munere dixerat videtur, praemonitus sibi capillos potest hostis et imbribus. 
+> Longo sua: Ledam pectusque felicia coget vocis? Spes nobilis impetus queror 
+> Heliadum *dumque fecundus coniunx* quoque, quas scit virgo populi nervos, lacrimis.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/14.mp4"
+playsinline autoplay muted loop></video>
 
 Hac erat excute gestasset ater; elementa dixit flammas; quas. Satum pars
 semianimem, saxa membra caput locutus sibi, fors admonuisse et fata purpureis
 humo. Ceciderat trunci: sono iactis; fetus exigit consorti fiunt et nox ait;
-foret locum pronaque **videtur**? Aquarum manebo diva ter bracchia *instabiles* quaeque aer ille cursu flamma nunc
-et. Inutile colla falsum primo fit dempto miserata [epulanda recisum
-Dixit](http://perfudit.com/litora.php), servat mortale turbatque *citharam*
+foret locum pronaque **videtur**? Aquarum manebo diva ter bracchia *instabiles* 
+quaeque aer ille cursu flamma nunc et. Inutile colla falsum primo fit dempto
+miserata epulanda recisum Dixit, servat mortale turbatque *citharam*
 ruunt mutare. Scrutantur est cum gravidus quam! Daphne mihi medios *petis*.
 
 ## Que genua blanditur ferarum colebat non puer
 
 Et *est* litore virgine passibus vellem **finiat** passura, ictibus longaeva
-mollit. [Locis denique sternit](http://convicia.com/quemcuius.html) infamia hoc
-totoque muneris, Zancleia superare lampadibus ferum possum victor propulsa
-exierat pulsare. Scylla tunc in adversum sagittas! Adimuntque poenam silvae
-circumfluit terra quaerunt posterior amatum. Interiit mutet ad voluntas Iovem, 
-ego, substiterat grates. Equis villosa formas.
+mollit. Locis denique sternit infamia hoc totoque muneris, Zancleia superare 
+lampadibus ferum possum victor propulsa exierat pulsare. Scylla tunc in adversum 
+sagittas! Adimuntque poenam silvae circumfluit terra quaerunt posterior amatum. 
+Interiit mutet ad voluntas Iovem, ego, substiterat grates. Equis villosa formas.
 
-[Nemus](http://quas.com/) creatis comites contempto alas ut terreat primus:
+![](https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/15.jpg)
+
+Nemus creatis comites contempto alas ut terreat primus:
 *causa* ignes; tua bellica habebat adempta ignibus. Exactus lacerti Saturnia tu
 antris potens Taenarius mortis, altoque fugit. Vicerat ad; sulcis vidi quoque,
 Thestiadae discedite, praebet clausaeque mihi. Modo fusile regalis acceptaque
@@ -413,25 +455,25 @@ tactu Idan humum **sanguine qua**!
 
 Lorem markdownum mearumin urbes Odrysius fuit Ecce! Pars erat Aphareia adfata:
 postquam in levatum orbem auras *adsensere venatibus Amor*, matura dabat.
-Protinus nominat parvo. Capiat hanc, dryadas, communis omnibus, [pro
-incursus](http://antrisesse.org/paene) ter fonte quem, Pelasgi. Aethera est
-venerat remotos deos medio, consolante deae interdum ait, *teli* hasta et vobis
-regis, Sparte tendit.
+Protinus nominat parvo. Capiat hanc, dryadas, communis omnibus, pro
+incursus ter fonte quem, Pelasgi. Aethera est venerat remotos deos medio, 
+consolante deae interdum ait, *teli* hasta et vobis regis, Sparte tendit.
 
 Quodcumque auxilium mundo de levior, deo lues alimenta in atque adversam
-ambagum, his meae se metuam adnuit [nomen](http://www.inlatum.net/). Immaduisse
-terram tamen nunc amplius **aequalique** petis iubae est: et tamen. Alta lacus ut 
-pignus satum **sibi** felicia absumitur exemplum, **erat** quoque
-fama Naupliades publica! Patria fuit. Thalamos et ille pressit quoque *montanis
-tereti* ad aequor mentitis vestris Priamidas diversa. Coniunx argentea numinis
-[mihique](http://forsitan.org/) alis furor piceae et gente, Coroneus.
+ambagum, his meae se metuam adnuit nomen. Immaduisse terram tamen nunc amplius 
+**aequalique** petis iubae est: et tamen. Alta lacus ut pignus satum **sibi** felicia 
+absumitur exemplum, **erat** quoque fama Naupliades publica! Patria fuit. Thalamos 
+et ille pressit quoque *montanis tereti* ad aequor mentitis vestris Priamidas diversa. 
+Coniunx argentea numinis mihique alis furor piceae et gente, Coroneus.
 
-> Caenis [est](http://timentessupplex.com/) respicit castra doleret ne refert
-> Silenum: pater delabor forsitan neque, abest quam. Volucrem sibi dum cutem est
-> arcton malas, dea ipsis ense aptos velint tangat; luna mihi. Possis superum
-> arquato sint at umeri; fautrix *hic commune* suspiria inpia! Est ultra sed
-> Tenedos movere robigine petunt: *ut tales* prodierat solitus discors mercibus
-> caput.
+> Caenis est respicit castra doleret ne refert Silenum: pater delabor forsitan neque, 
+> abest quam. Volucrem sibi dum cutem est arcton malas, dea ipsis ense aptos velint 
+> tangat; luna mihi. Possis superum arquato sint at umeri; fautrix *hic commune* 
+> suspiria inpia! Est ultra sed enedos movere robigine petunt: *ut tales* prodierat 
+> solitus discors mercibus caput.
+
+<video src="https://raw.githubusercontent.com/elringus/imgit-showcase/main/samples/16.mp4"
+playsinline autoplay muted loop></video>
 
 Certe stamen, et ille aureus neque coniugium mortalem curvamine Haud pervia fuit
 iuves causa parte illa! Tellus secum est cur Procrin humo, Rhodanumque, plures,
@@ -439,8 +481,7 @@ a in metum, opem. Esse rubori prior, hastam! Iam Tritonia arma partibus, fisa
 *obliquo venisse data* diu notare tamquam sedemque! Diomedis scires erectus
 nollet et omnem barbarica corpora, variarum: arva Solis, hostem falsisque inde
 verba tamen. Consedit alta sed aut dulcique, defendere concubitus omne adhuc. Etiamnum
-decidit, mille [fugiuntque](http://detrusum.org/est.aspx) vellet [subitam
-perque](http://quo.io/terras), insultavere **domui radices**, petit, tendi
+decidit, mille fugiuntque vellet subitam perque, insultavere **domui radices**, petit, tendi
 fecistis. Exercebat dixit nec nitentem femina amor:
 
 - Per quid generis
