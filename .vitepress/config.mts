@@ -11,8 +11,7 @@ export default defineConfig({
     appearance: "dark",
     head: [
         ["link", { rel: "icon", href: "/favicon.svg" }],
-        ["link", { rel: "preload", href: "/inter.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
-        ["link", { rel: "preload", href: "/poster.jpg", as: "image" }]
+        ["link", { rel: "preload", href: "/inter.woff2", as: "font", type: "font/woff2", crossorigin: "" }]
     ],
     themeConfig: {
         socialLinks: [{ icon: "github", link: "https://github.com/elringus/imgit-showcase" }],
