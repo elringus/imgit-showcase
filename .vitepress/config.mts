@@ -2,11 +2,11 @@ import { defineConfig } from "vitepress";
 import { Plugin } from "imgit/server";
 import imgit from "imgit/vite";
 import youtube from "imgit/youtube";
-import svg from "imgit/svg";
 
 export default defineConfig({
     title: "imgit",
     titleTemplate: ":title • imgit",
+    description: "Demo for imgit.",
     cleanUrls: true,
     appearance: "dark",
     head: [
@@ -20,8 +20,8 @@ export default defineConfig({
             { text: "Unoptimized", link: "/src/unoptimized" }
         ]
     },
-    sitemap: { hostname: "https://grand-figolla-604270.netlify.app" },
-    vite: { plugins: [imgit({ width: 688, plugins: [svg(), youtube(), skipUnoptimized()] })] }
+    sitemap: { hostname: "https://imgit.netlify.app" },
+    vite: { plugins: [imgit({ width: 688, plugins: [youtube(), skipUnoptimized()] })] }
 });
 
 function skipUnoptimized(): Plugin {
